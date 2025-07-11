@@ -71,3 +71,25 @@ Sentiment_Analysis/
 ```bash
 git clone https://github.com/arush18/Sentiment_Analysis.git
 cd Sentiment_Analysis
+```
+
+### Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### Run the Notebook
+
+```bash
+jupyter notebook main.ipynb
+```
+
+---
+
+## 🧾 License
+
+This project is licensed under the MIT License. Feel free to use and modify it.
+
+---
+
